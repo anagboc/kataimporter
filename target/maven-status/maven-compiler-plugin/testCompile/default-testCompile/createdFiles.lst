@@ -1,0 +1,6 @@
+com\espublico\kataorderimporter\ServiceTst\StatisticsServiceImplTest.class
+com\espublico\kataorderimporter\ServiceTst\OrderServiceImplTest.class
+com\espublico\kataorderimporter\ServiceTst\ImporterServiceImplTest.class
+com\espublico\kataorderimporter\KataOrderImporterApplicationTests.class
+com\espublico\kataorderimporter\ServiceTst\CsvFileServiceImplTest.class
+com\espublico\kataorderimporter\ServiceTst\PageServiceImplTest.class
